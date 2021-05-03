@@ -18,12 +18,13 @@ main{
 
 .main-box{
   width: 300px;
-  margin: 30px;
+  margin: 15px;
   background-color: #EEEEEE;
   position: relative;
 }
 .position{
  background-color: #FF9A4B;
+ 
  position: absolute;
  top: 0;
  left: 0;

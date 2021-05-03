@@ -17,13 +17,14 @@ main {
 
 .main-box {
   width: 300px;
-  margin: 30px;
+  margin: 15px;
   padding: 10px;
   background-color: #eeeeee;
   position: relative;
 }
 .position {
   background-color: #ff9a4b;
+  color: white;
   position: absolute;
   top: 0;
   left: 0;
@@ -74,9 +75,7 @@ footer {
   }
   .main-box{
     width: 90%;
-    margin: 20px;
-  
-    /*background-color: red;*/
+    margin: 20px auto;
   }
 
   }
